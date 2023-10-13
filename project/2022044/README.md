@@ -14,7 +14,7 @@
 | 9 | Κατασκευή του βιβλίου A | | |
 | 10 | Τελική αναφορά* | | |
 
-https://github.com/courses-ionio/hci/discussions/1960
+https://github.com/courses-ionio/hci/discussions/1960#discussion-5718893
 
 
 
