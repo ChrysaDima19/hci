@@ -30,7 +30,7 @@
 
 # 2o παραδοτέο: Άσκηση γραμμής εντολών (arch linux install)
 
-Στο συγκεκριμένο παραδοτέο έπειτα από την εγκατάσταση των arch linux αναρτώ με ένα asciinema από τo boot log την εντολή journalctl -b και από το system info την εντολή neofetch. Εδώ είναι το λινκ
+Στο συγκεκριμένο παραδοτέο έπειτα από την εγκατάσταση των arch linux αναρτώ με ένα asciinema από τo boot log την εντολή journalctl -b και από το system info την εντολή neofetch. Εδώ είναι το [link](https://asciinema.org/a/jEWSslHRor7nocywB3K0RjsMC)
 
 
 
